@@ -151,7 +151,7 @@ balance += winnings;
 console.log("You won " + winnings.toString());
 
     if (balance <= 0) {
-        console.log("You run out of money!");
+        console.log("You ran out of money!");
         break;
     }
 
